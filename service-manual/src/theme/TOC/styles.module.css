@@ -1,0 +1,7 @@
+/* TOC (Table of Contents) 커스텀 스타일 */
+.tocWrapper {
+  position: sticky;
+  top: 1rem;
+  max-height: calc(100vh - 2rem);
+  overflow-y: auto;
+}

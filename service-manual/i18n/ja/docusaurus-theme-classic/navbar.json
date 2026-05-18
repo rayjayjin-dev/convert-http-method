@@ -1,0 +1,30 @@
+{
+  "title": {
+    "message": "サービスマニュアル",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "サービスマニュアル ロゴ",
+    "description": "The alt text of the navbar logo"
+  },
+  "item.label.시작하기": {
+    "message": "はじめに",
+    "description": "Navbar item with label 시작하기"
+  },
+  "item.label.사용자 가이드": {
+    "message": "ユーザーガイド",
+    "description": "Navbar item with label 사용자 가이드"
+  },
+  "item.label.관리자 가이드": {
+    "message": "管理者ガイド",
+    "description": "Navbar item with label 관리자 가이드"
+  },
+  "item.label.API 레퍼런스": {
+    "message": "APIリファレンス",
+    "description": "Navbar item with label API 레퍼런스"
+  },
+  "item.label.문제 해결": {
+    "message": "トラブルシューティング",
+    "description": "Navbar item with label 문제 해결"
+  }
+}

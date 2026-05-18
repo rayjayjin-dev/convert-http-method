@@ -1,0 +1,9 @@
+{
+  "label": "문제 해결",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "slug": "troubleshooting",
+    "description": "자주 발생하는 문제와 해결 방법을 안내합니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": {
+    "message": "Service Manual",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Service Manual Logo",
+    "description": "The alt text of the navbar logo"
+  },
+  "item.label.시작하기": {
+    "message": "Getting Started",
+    "description": "Navbar item with label 시작하기"
+  },
+  "item.label.사용자 가이드": {
+    "message": "User Guide",
+    "description": "Navbar item with label 사용자 가이드"
+  },
+  "item.label.관리자 가이드": {
+    "message": "Admin Guide",
+    "description": "Navbar item with label 관리자 가이드"
+  },
+  "item.label.API 레퍼런스": {
+    "message": "API Reference",
+    "description": "Navbar item with label API 레퍼런스"
+  },
+  "item.label.문제 해결": {
+    "message": "Troubleshooting",
+    "description": "Navbar item with label 문제 해결"
+  }
+}

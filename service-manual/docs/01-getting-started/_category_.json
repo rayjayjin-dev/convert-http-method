@@ -1,0 +1,9 @@
+{
+  "label": "시작하기",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "slug": "getting-started",
+    "description": "서비스 시작에 필요한 기본 정보를 안내합니다."
+  }
+}

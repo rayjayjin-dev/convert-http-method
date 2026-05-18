@@ -1,0 +1,10 @@
+/* DocSidebar 커스텀 스타일 */
+.sidebarWrapper {
+}
+
+/* depth 1 카테고리 라벨 bold 처리 */
+.sidebarWrapper :global(.menu__list-item--collapsed > .menu__list-item-collapsible > .menu__link--sublist),
+.sidebarWrapper :global(.menu__list-item > .menu__list-item-collapsible > .menu__link--sublist),
+.sidebarWrapper :global(.menu > .menu__list > .menu__list-item > .menu__list-item-collapsible > .menu__link) {
+  font-weight: 700;
+}

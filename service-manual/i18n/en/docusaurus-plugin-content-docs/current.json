@@ -1,0 +1,62 @@
+{
+  "sidebar.docsSidebar.category.시작하기": {
+    "message": "Getting Started",
+    "description": "The label for category 시작하기 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.사용자 가이드": {
+    "message": "User Guide",
+    "description": "The label for category 사용자 가이드 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.관리자 가이드": {
+    "message": "Admin Guide",
+    "description": "The label for category 관리자 가이드 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.API 레퍼런스": {
+    "message": "API Reference",
+    "description": "The label for category API 레퍼런스 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.문제 해결": {
+    "message": "Troubleshooting",
+    "description": "The label for category 문제 해결 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.link.generated-index.title.시작하기": {
+    "message": "Getting Started",
+    "description": "The generated-index page title for category 시작하기 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.link.generated-index.title.사용자 가이드": {
+    "message": "User Guide",
+    "description": "The generated-index page title for category 사용자 가이드 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.link.generated-index.title.관리자 가이드": {
+    "message": "Admin Guide",
+    "description": "The generated-index page title for category 관리자 가이드 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.link.generated-index.title.API 레퍼런스": {
+    "message": "API Reference",
+    "description": "The generated-index page title for category API 레퍼런스 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.link.generated-index.title.문제 해결": {
+    "message": "Troubleshooting",
+    "description": "The generated-index page title for category 문제 해결 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.link.generated-index.description.시작하기": {
+    "message": "Essential information to get started with the service.",
+    "description": "The generated-index page description for category 시작하기 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.link.generated-index.description.사용자 가이드": {
+    "message": "Learn how to use the core features of the service.",
+    "description": "The generated-index page description for category 사용자 가이드 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.link.generated-index.description.관리자 가이드": {
+    "message": "System administration and configuration guide.",
+    "description": "The generated-index page description for category 관리자 가이드 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.link.generated-index.description.API 레퍼런스": {
+    "message": "Technical documentation for API integration.",
+    "description": "The generated-index page description for category API 레퍼런스 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.link.generated-index.description.문제 해결": {
+    "message": "Solutions for common issues and frequently asked questions.",
+    "description": "The generated-index page description for category 문제 해결 in sidebar docsSidebar"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "sidebar.docsSidebar.category.시작하기": {
+    "message": "はじめに",
+    "description": "The label for category 시작하기 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.사용자 가이드": {
+    "message": "ユーザーガイド",
+    "description": "The label for category 사용자 가이드 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.관리자 가이드": {
+    "message": "管理者ガイド",
+    "description": "The label for category 관리자 가이드 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.API 레퍼런스": {
+    "message": "APIリファレンス",
+    "description": "The label for category API 레퍼런스 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.문제 해결": {
+    "message": "トラブルシューティング",
+    "description": "The label for category 문제 해결 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.link.generated-index.title.시작하기": {
+    "message": "はじめに",
+    "description": "The generated-index page title for category 시작하기"
+  },
+  "sidebar.docsSidebar.link.generated-index.title.사용자 가이드": {
+    "message": "ユーザーガイド",
+    "description": "The generated-index page title for category 사용자 가이드"
+  },
+  "sidebar.docsSidebar.link.generated-index.title.관리자 가이드": {
+    "message": "管理者ガイド",
+    "description": "The generated-index page title for category 관리자 가이드"
+  },
+  "sidebar.docsSidebar.link.generated-index.title.API 레퍼런스": {
+    "message": "APIリファレンス",
+    "description": "The generated-index page title for category API 레퍼런스"
+  },
+  "sidebar.docsSidebar.link.generated-index.title.문제 해결": {
+    "message": "トラブルシューティング",
+    "description": "The generated-index page title for category 문제 해결"
+  },
+  "sidebar.docsSidebar.link.generated-index.description.시작하기": {
+    "message": "サービスの利用を開始するために必要な基本情報をご案内します。",
+    "description": "The generated-index page description for category 시작하기"
+  },
+  "sidebar.docsSidebar.link.generated-index.description.사용자 가이드": {
+    "message": "サービスの主要機能と使用方法をご案内します。",
+    "description": "The generated-index page description for category 사용자 가이드"
+  },
+  "sidebar.docsSidebar.link.generated-index.description.관리자 가이드": {
+    "message": "システム管理および設定に必要な情報をご案内します。",
+    "description": "The generated-index page description for category 관리자 가이드"
+  },
+  "sidebar.docsSidebar.link.generated-index.description.API 레퍼런스": {
+    "message": "APIエンドポイントおよび使用方法に関する技術文書です。",
+    "description": "The generated-index page description for category API 레퍼런스"
+  },
+  "sidebar.docsSidebar.link.generated-index.description.문제 해결": {
+    "message": "よくある問題と解決方法をご案内します。",
+    "description": "The generated-index page description for category 문제 해결"
+  }
+}

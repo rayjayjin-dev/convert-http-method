@@ -1,0 +1,8 @@
+{
+  "label": "ユーザーガイド",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "サービスの主要機能と使用方法をご案内します。"
+  }
+}

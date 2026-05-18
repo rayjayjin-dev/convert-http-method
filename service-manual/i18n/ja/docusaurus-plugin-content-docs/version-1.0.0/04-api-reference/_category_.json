@@ -1,0 +1,8 @@
+{
+  "label": "APIリファレンス",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "APIエンドポイントおよび使用方法に関する技術文書です。"
+  }
+}

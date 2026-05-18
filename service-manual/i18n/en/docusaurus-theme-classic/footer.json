@@ -1,0 +1,14 @@
+{
+  "link.title.Docs": {
+    "message": "Docs",
+    "description": "The title of the footer links column with title=Docs"
+  },
+  "link.item.label.서비스 매뉴얼": {
+    "message": "Service Manual",
+    "description": "The label of footer link with label=서비스 매뉴얼"
+  },
+  "copyright": {
+    "message": "Copyright © 2026 Service Manual. Built with Docusaurus.",
+    "description": "The footer copyright"
+  }
+}
